@@ -1,6 +1,6 @@
 {
   "name": "passport-google-oauth1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Google (OAuth 1.0) authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -15,7 +15,8 @@
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
-  "repository": {    "type": "git",
+  "repository": {
+    "type": "git",
     "url": "git://github.com/jaredhanson/passport-google-oauth1.git"
   },
   "bugs": {
