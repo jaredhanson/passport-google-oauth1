@@ -24,7 +24,7 @@ unobtrusively integrated into any application or framework that supports
 #### Create an Application
 
 Before using `passport-google-oauth1`, you must register your domain with Google.
-If you have not already done so, a new domain can be added at [Google Accounts](https://accounts.google.com/ManageDomain).
+If you have not already done so, a new domain can be added at [Google Accounts](https://accounts.google.com/ManageDomains).
 Your domain will be issued an OAuth Consumer Key and OAuth Consumer Secret,
 which need to be provided to the strategy.
 
