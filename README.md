@@ -1,3 +1,9 @@
+**DEPRECATED:** On April 20, 2015, Google's support for OAuth 1.0 was officially
+deprecated and is no longer supported.  You are encouraged to migrate to OAuth
+2.0 and [passport-google-oauth20](https://github.com/jaredhanson/passport-google-oauth2)
+as soon as possible.
+
+
 # passport-google-oauth1
 
 [![Build](https://img.shields.io/travis/jaredhanson/passport-google-oauth1.svg)](https://travis-ci.org/jaredhanson/passport-google-oauth1)
