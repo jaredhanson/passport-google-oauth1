@@ -10,7 +10,7 @@ describe('Strategy', function() {
       consumerSecret: 'secret'
     }, function(){});
     
-    it('should be named twitter', function() {
+    it('should be named google', function() {
       expect(strategy.name).to.equal('google');
     });
   })
